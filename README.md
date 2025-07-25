@@ -1,23 +1,44 @@
-# 🕵️ TraceMyData
+# 🕵️‍♂️ TraceMyData
 
-Uma aplicação web que mostra o quanto seu navegador está exposto.
+**Aplicação web que revela em tempo real as informações que o seu navegador expõe para a internet.**
 
-## Funcionalidades
+> Um projeto com foco em privacidade, rastreabilidade e consciência digital.
 
-- Detecta IP e localização
-- Coleta de cookies ativos
-- Geração de fingerprint única
-- Verificação de permissões sensíveis (microfone, câmera)
-- Bar de exposição com alerta
+---
 
-## Tecnologias
+### 📌 Funcionalidades
 
-- HTML, CSS, JavaScript
-- FingerprintJS
-- API pública de IP (ipapi.co)
+- 🌐 Detecta seu IP público e localização geográfica
+- 🍪 Conta os cookies ativos no navegador
+- 🔍 Gera e exibe fingerprint única do dispositivo
+- 📡 Mostra permissões sensíveis (como câmera e microfone)
+- 🔓 Calcula o nível de exposição do usuário
 
-## Como usar
+---
 
-1. Abra o `index.html` em um navegador desktop moderno.
-2. Certifique-se de estar conectado à internet.
-3. Aceite permissões se solicitado para análise completa.
+### 💻 Tecnologias usadas
+
+- **HTML5**, **CSS3**, **JavaScript (Vanilla)**
+- [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+- API pública de IP: [ipapi.co](https://ipapi.co/)
+
+---
+
+### 🚀 Como executar
+
+1. Faça o download ou clone o repositório:
+```bash
+git clone https://github.com/vinicius030303/tracemydata.git
+
+Abra o arquivo index.html em um navegador moderno.
+
+Permita o acesso a permissões (geolocalização, câmera) se solicitado.
+
+Observação: O projeto não coleta nem armazena dados — ele apenas demonstra o que sites externos podem ver no seu navegador.
+
+
+
+📬 Contato
+LinkedIn: vinicius-front
+
+🧠 Projeto criado com foco em prática real, domínio de lógica, manipulação de API, e visual de impacto.
