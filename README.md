@@ -19,7 +19,6 @@
 
 ---
 ### 🚀 Como executar
-
 1. Faça o download ou clone o repositório:
 ```bash
 git clone https://github.com/vinicius030303/tracemydata.git
@@ -29,3 +28,7 @@ Abra o arquivo index.html em um navegador moderno.
 Permita o acesso a permissões (geolocalização, câmera) se solicitado.
 
 Observação: O projeto não coleta nem armazena dados — ele apenas demonstra o que sites externos podem ver no seu navegador.
+
+## 🙋‍♂️ Autor
+
+Desenvolvido por [Vinicius Santos](https://linkedin.com/in/vinicius-front)
