@@ -22,3 +22,6 @@
 - API pública de IP: [ipapi.co](https://ipapi.co/)
 
 ---
+Abra o arquivo index.html em um navegador moderno.
+Permita o acesso a permissões (geolocalização) se solicitado.
+Observação: O projeto não coleta nem armazena dados — ele apenas demonstra o que sites externos podem ver no seu navegador.
