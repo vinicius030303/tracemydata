@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TraceMyData 🕵️‍♂️</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🕵️ TraceMyData</h1>
+    <div id="info">
+      <p><strong>IP:</strong> <span id="ip">Carregando...</span></p>
+      <p><strong>Localização:</strong> <span id="location">Carregando...</span></p>
+      <p><strong>Cookies ativos:</strong> <span id="cookies">Carregando...</span></p>
+      <p><strong>Fingerprint:</strong> <span id="fingerprint">Carregando...</span></p>
+      <p><strong>Permissões:</strong> <span id="permissions">Carregando...</span></p>
+      <div class="exposure-bar">
+        <span>🔓 Nível de Exposição:</span>
+        <div id="exposure">Calculando...</div>
+      </div>
+    </div>
+  </div>
+  <script src="libs/fingerprint.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
