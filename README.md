@@ -22,17 +22,3 @@
 - API pública de IP: [ipapi.co](https://ipapi.co/)
 
 ---
-
-### 🚀 Como executar
-
-1. Faça o download ou clone o repositório:
-```bash
-git clone https://github.com/vinicius030303/tracemydata.git
-Abra o arquivo index.html em um navegador moderno.
-Permita o acesso a permissões (geolocalização, câmera) se solicitado.
-Observação: O projeto não coleta nem armazena dados — ele apenas demonstra o que sites externos podem ver no seu navegador.
-
-📬 Contato
-LinkedIn: vinicius-front
-
-🧠 Projeto criado com foco em prática real, domínio de lógica, manipulação de API, e visual de impacto.
